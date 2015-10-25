@@ -1,3 +1,3 @@
 <?php
-var_dump("我是baibai");
+var_dump("我是baibai,你是？");exit;
 ?>
